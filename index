@@ -1,0 +1,272 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta http-equiv="Content-Style-Type" content="text/css">
+  <title></title>
+  <meta name="Generator" content="Cocoa HTML Writer">
+  <meta name="CocoaVersion" content="2575.6">
+  <style type="text/css">
+    p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Helvetica}
+    p.p2 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Helvetica; min-height: 14.0px}
+  </style>
+</head>
+<body>
+<p class="p1">&lt;!DOCTYPE html&gt;</p>
+<p class="p1">&lt;html lang="en"&gt;</p>
+<p class="p1">&lt;head&gt;</p>
+<p class="p1"><span class="Apple-converted-space">    </span>&lt;meta charset="UTF-8"&gt;</p>
+<p class="p1"><span class="Apple-converted-space">    </span>&lt;meta name="viewport" content="width=device-width, initial-scale=1.0"&gt;</p>
+<p class="p1"><span class="Apple-converted-space">    </span>&lt;title&gt;AI Niche Content &amp; Monetization Idea Generator&lt;/title&gt;</p>
+<p class="p1"><span class="Apple-converted-space">    </span>&lt;script src="https://cdn.tailwindcss.com"&gt;&lt;/script&gt;</p>
+<p class="p1"><span class="Apple-converted-space">    </span>&lt;link rel="preconnect" href="https://fonts.googleapis.com"&gt;</p>
+<p class="p1"><span class="Apple-converted-space">    </span>&lt;link rel="preconnect" href="https://fonts.gstatic.com" crossorigin&gt;</p>
+<p class="p1"><span class="Apple-converted-space">    </span>&lt;link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&amp;display=swap" rel="stylesheet"&gt;</p>
+<p class="p1"><span class="Apple-converted-space">    </span>&lt;style&gt;</p>
+<p class="p1"><span class="Apple-converted-space">        </span>body {</p>
+<p class="p1"><span class="Apple-converted-space">            </span>font-family: 'Inter', sans-serif;</p>
+<p class="p1"><span class="Apple-converted-space">        </span>}</p>
+<p class="p1"><span class="Apple-converted-space">        </span>.fade-in {</p>
+<p class="p1"><span class="Apple-converted-space">            </span>animation: fadeIn 0.5s ease-in-out;</p>
+<p class="p1"><span class="Apple-converted-space">        </span>}</p>
+<p class="p1"><span class="Apple-converted-space">        </span>@keyframes fadeIn {</p>
+<p class="p1"><span class="Apple-converted-space">            </span>from { opacity: 0; transform: translateY(10px); }</p>
+<p class="p1"><span class="Apple-converted-space">            </span>to { opacity: 1; transform: translateY(0); }</p>
+<p class="p1"><span class="Apple-converted-space">        </span>}</p>
+<p class="p1"><span class="Apple-converted-space">        </span>.shine-effect::before {</p>
+<p class="p1"><span class="Apple-converted-space">            </span>content: '';</p>
+<p class="p1"><span class="Apple-converted-space">            </span>position: absolute;</p>
+<p class="p1"><span class="Apple-converted-space">            </span>top: 0;</p>
+<p class="p1"><span class="Apple-converted-space">            </span>left: -75%;</p>
+<p class="p1"><span class="Apple-converted-space">            </span>width: 50%;</p>
+<p class="p1"><span class="Apple-converted-space">            </span>height: 100%;</p>
+<p class="p1"><span class="Apple-converted-space">            </span>background: linear-gradient(to right, rgba(255, 255, 255, 0) 0%, rgba(255, 255, 255, 0.3) 50%, rgba(255, 255, 255, 0) 100%);</p>
+<p class="p1"><span class="Apple-converted-space">            </span>transform: skewX(-25deg);</p>
+<p class="p1"><span class="Apple-converted-space">            </span>animation: shine 1.5s infinite;</p>
+<p class="p1"><span class="Apple-converted-space">        </span>}</p>
+<p class="p1"><span class="Apple-converted-space">        </span>@keyframes shine {</p>
+<p class="p1"><span class="Apple-converted-space">            </span>0% { left: -75%; }</p>
+<p class="p1"><span class="Apple-converted-space">            </span>100% { left: 125%; }</p>
+<p class="p1"><span class="Apple-converted-space">        </span>}</p>
+<p class="p1"><span class="Apple-converted-space">    </span>&lt;/style&gt;</p>
+<p class="p1">&lt;/head&gt;</p>
+<p class="p1">&lt;body class="bg-slate-900 text-gray-200 flex items-center justify-center min-h-screen p-4 sm:p-6 lg:p-8"&gt;</p>
+<p class="p2"><br></p>
+<p class="p1"><span class="Apple-converted-space">    </span>&lt;div class="w-full max-w-2xl mx-auto"&gt;</p>
+<p class="p2"><span class="Apple-converted-space">        </span></p>
+<p class="p1"><span class="Apple-converted-space">        </span>&lt;!-- Header Section --&gt;</p>
+<p class="p1"><span class="Apple-converted-space">        </span>&lt;header class="text-center mb-8"&gt;</p>
+<p class="p1"><span class="Apple-converted-space">            </span>&lt;div class="inline-block bg-cyan-500/10 p-3 rounded-xl mb-4"&gt;</p>
+<p class="p1"><span class="Apple-converted-space">                </span>&lt;svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="text-cyan-400"&gt;</p>
+<p class="p1"><span class="Apple-converted-space">                    </span>&lt;path d="M12 2L2 7l10 5 10-5-10-5z"&gt;&lt;/path&gt;</p>
+<p class="p1"><span class="Apple-converted-space">                    </span>&lt;path d="M2 17l10 5 10-5"&gt;&lt;/path&gt;</p>
+<p class="p1"><span class="Apple-converted-space">                    </span>&lt;path d="M2 12l10 5 10-5"&gt;&lt;/path&gt;</p>
+<p class="p1"><span class="Apple-converted-space">                </span>&lt;/svg&gt;</p>
+<p class="p1"><span class="Apple-converted-space">            </span>&lt;/div&gt;</p>
+<p class="p1"><span class="Apple-converted-space">            </span>&lt;h1 class="text-3xl sm:text-4xl font-bold text-white tracking-tight"&gt;Niche Monetization Engine&lt;/h1&gt;</p>
+<p class="p1"><span class="Apple-converted-space">            </span>&lt;p class="text-lg text-slate-400 mt-2"&gt;Enter a topic and let Gemini generate profitable content ideas.&lt;/p&gt;</p>
+<p class="p1"><span class="Apple-converted-space">        </span>&lt;/header&gt;</p>
+<p class="p2"><br></p>
+<p class="p1"><span class="Apple-converted-space">        </span>&lt;!-- Input Form Section --&gt;</p>
+<p class="p1"><span class="Apple-converted-space">        </span>&lt;div class="bg-slate-800/50 backdrop-blur-sm border border-slate-700 rounded-2xl p-6 sm:p-8 shadow-2xl"&gt;</p>
+<p class="p1"><span class="Apple-converted-space">            </span>&lt;div class="grid grid-cols-1 sm:grid-cols-2 gap-6"&gt;</p>
+<p class="p1"><span class="Apple-converted-space">                </span>&lt;!-- Niche Input --&gt;</p>
+<p class="p1"><span class="Apple-converted-space">                </span>&lt;div class="sm:col-span-2"&gt;</p>
+<p class="p1"><span class="Apple-converted-space">                    </span>&lt;label for="nicheInput" class="block text-sm font-medium text-slate-300 mb-2"&gt;Your Niche or Topic&lt;/label&gt;</p>
+<p class="p1"><span class="Apple-converted-space">                    </span>&lt;input type="text" id="nicheInput" class="w-full bg-slate-700 border border-slate-600 text-white rounded-lg p-3 focus:ring-2 focus:ring-cyan-500 focus:border-cyan-500 transition duration-200" placeholder="e.g., 'Urban Gardening', 'Retro Gaming'"&gt;</p>
+<p class="p1"><span class="Apple-converted-space">                </span>&lt;/div&gt;</p>
+<p class="p2"><span class="Apple-converted-space">                </span></p>
+<p class="p1"><span class="Apple-converted-space">                </span>&lt;!-- Monetization Method Dropdown --&gt;</p>
+<p class="p1"><span class="Apple-converted-space">                </span>&lt;div&gt;</p>
+<p class="p1"><span class="Apple-converted-space">                    </span>&lt;label for="monetizationMethod" class="block text-sm font-medium text-slate-300 mb-2"&gt;Monetization Method&lt;/label&gt;</p>
+<p class="p1"><span class="Apple-converted-space">                    </span>&lt;select id="monetizationMethod" class="w-full bg-slate-700 border border-slate-600 text-white rounded-lg p-3 focus:ring-2 focus:ring-cyan-500 focus:border-cyan-500 transition duration-200"&gt;</p>
+<p class="p1"><span class="Apple-converted-space">                        </span>&lt;option&gt;Blog / Content Site&lt;/option&gt;</p>
+<p class="p1"><span class="Apple-converted-space">                        </span>&lt;option&gt;YouTube Channel&lt;/option&gt;</p>
+<p class="p1"><span class="Apple-converted-space">                        </span>&lt;option&gt;Digital Product (eBook/Course)&lt;/option&gt;</p>
+<p class="p1"><span class="Apple-converted-space">                        </span>&lt;option&gt;E-commerce Store&lt;/option&gt;</p>
+<p class="p1"><span class="Apple-converted-space">                        </span>&lt;option&gt;SaaS / Micro-SaaS&lt;/option&gt;</p>
+<p class="p1"><span class="Apple-converted-space">                    </span>&lt;/select&gt;</p>
+<p class="p1"><span class="Apple-converted-space">                </span>&lt;/div&gt;</p>
+<p class="p2"><br></p>
+<p class="p1"><span class="Apple-converted-space">                </span>&lt;!-- Content Type Dropdown --&gt;</p>
+<p class="p1"><span class="Apple-converted-space">                </span>&lt;div&gt;</p>
+<p class="p1"><span class="Apple-converted-space">                    </span>&lt;label for="contentType" class="block text-sm font-medium text-slate-300 mb-2"&gt;Content Type&lt;/label&gt;</p>
+<p class="p1"><span class="Apple-converted-space">                    </span>&lt;select id="contentType" class="w-full bg-slate-700 border border-slate-600 text-white rounded-lg p-3 focus:ring-2 focus:ring-cyan-500 focus:border-cyan-500 transition duration-200"&gt;</p>
+<p class="p1"><span class="Apple-converted-space">                        </span>&lt;option&gt;How-To Guides&lt;/option&gt;</p>
+<p class="p1"><span class="Apple-converted-space">                        </span>&lt;option&gt;Top 10 Lists&lt;/option&gt;</p>
+<p class="p1"><span class="Apple-converted-space">                        </span>&lt;option&gt;Product Reviews&lt;/option&gt;</p>
+<p class="p1"><span class="Apple-converted-space">                        </span>&lt;option&gt;Case Studies&lt;/option&gt;</p>
+<p class="p1"><span class="Apple-converted-space">                        </span>&lt;option&gt;Beginner's Guides&lt;/option&gt;</p>
+<p class="p1"><span class="Apple-converted-space">                    </span>&lt;/select&gt;</p>
+<p class="p1"><span class="Apple-converted-space">                </span>&lt;/div&gt;</p>
+<p class="p1"><span class="Apple-converted-space">            </span>&lt;/div&gt;</p>
+<p class="p2"><br></p>
+<p class="p1"><span class="Apple-converted-space">            </span>&lt;!-- Generate Button --&gt;</p>
+<p class="p1"><span class="Apple-converted-space">            </span>&lt;div class="mt-8"&gt;</p>
+<p class="p1"><span class="Apple-converted-space">                </span>&lt;button id="generateBtn" class="w-full bg-cyan-500 hover:bg-cyan-600 text-white font-bold py-3 px-4 rounded-lg shadow-lg transition duration-300 transform hover:scale-105 flex items-center justify-center relative overflow-hidden"&gt;</p>
+<p class="p1"><span class="Apple-converted-space">                    </span>✨ Generate Ideas with Gemini</p>
+<p class="p1"><span class="Apple-converted-space">                </span>&lt;/button&gt;</p>
+<p class="p1"><span class="Apple-converted-space">            </span>&lt;/div&gt;</p>
+<p class="p1"><span class="Apple-converted-space">             </span>&lt;p id="error-message" class="text-red-400 text-sm mt-4 text-center hidden"&gt;Please enter a niche or topic to get started.&lt;/p&gt;</p>
+<p class="p1"><span class="Apple-converted-space">        </span>&lt;/div&gt;</p>
+<p class="p2"><br></p>
+<p class="p1"><span class="Apple-converted-space">        </span>&lt;!-- Results Section --&gt;</p>
+<p class="p1"><span class="Apple-converted-space">        </span>&lt;div id="results" class="mt-8"&gt;</p>
+<p class="p1"><span class="Apple-converted-space">            </span>&lt;!-- Loading Spinner --&gt;</p>
+<p class="p1"><span class="Apple-converted-space">            </span>&lt;div id="loading" class="text-center p-8 hidden"&gt;</p>
+<p class="p1"><span class="Apple-converted-space">                </span>&lt;svg class="animate-spin h-8 w-8 text-cyan-400 mx-auto" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24"&gt;</p>
+<p class="p1"><span class="Apple-converted-space">                    </span>&lt;circle class="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" stroke-width="4"&gt;&lt;/circle&gt;</p>
+<p class="p1"><span class="Apple-converted-space">                    </span>&lt;path class="opacity-75" fill="currentColor" d="M4 12a8 8 0 018-8V0C5.373 0 0 5.373 0 12h4zm2 5.291A7.962 7.962 0 014 12H0c0 3.042 1.135 5.824 3 7.938l3-2.647z"&gt;&lt;/path&gt;</p>
+<p class="p1"><span class="Apple-converted-space">                </span>&lt;/svg&gt;</p>
+<p class="p1"><span class="Apple-converted-space">                </span>&lt;p class="mt-4 text-slate-400"&gt;Gemini is brainstorming...&lt;/p&gt;</p>
+<p class="p1"><span class="Apple-converted-space">            </span>&lt;/div&gt;</p>
+<p class="p1"><span class="Apple-converted-space">            </span>&lt;!-- Output Content --&gt;</p>
+<p class="p1"><span class="Apple-converted-space">            </span>&lt;div id="output" class="hidden"&gt;&lt;/div&gt;</p>
+<p class="p1"><span class="Apple-converted-space">        </span>&lt;/div&gt;</p>
+<p class="p1"><span class="Apple-converted-space">    </span>&lt;/div&gt;</p>
+<p class="p2"><br></p>
+<p class="p1"><span class="Apple-converted-space">    </span>&lt;script&gt;</p>
+<p class="p1"><span class="Apple-converted-space">        </span>const generateBtn = document.getElementById('generateBtn');</p>
+<p class="p1"><span class="Apple-converted-space">        </span>const nicheInput = document.getElementById('nicheInput');</p>
+<p class="p1"><span class="Apple-converted-space">        </span>const monetizationMethod = document.getElementById('monetizationMethod');</p>
+<p class="p1"><span class="Apple-converted-space">        </span>const contentType = document.getElementById('contentType');</p>
+<p class="p1"><span class="Apple-converted-space">        </span>const resultsDiv = document.getElementById('results');</p>
+<p class="p1"><span class="Apple-converted-space">        </span>const loadingDiv = document.getElementById('loading');</p>
+<p class="p1"><span class="Apple-converted-space">        </span>const outputDiv = document.getElementById('output');</p>
+<p class="p1"><span class="Apple-converted-space">        </span>const errorMessage = document.getElementById('error-message');</p>
+<p class="p2"><br></p>
+<p class="p1"><span class="Apple-converted-space">        </span>// --- Gemini API Integration ---</p>
+<p class="p1"><span class="Apple-converted-space">        </span>const apiKey = ""; // Leave this as an empty string.</p>
+<p class="p1"><span class="Apple-converted-space">        </span>const apiUrl = `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=${apiKey}`;</p>
+<p class="p2"><br></p>
+<p class="p1"><span class="Apple-converted-space">        </span>const callGeminiAPI = async (userQuery, schema) =&gt; {</p>
+<p class="p1"><span class="Apple-converted-space">            </span>const payload = {</p>
+<p class="p1"><span class="Apple-converted-space">                </span>contents: [{ parts: [{ text: userQuery }] }],</p>
+<p class="p1"><span class="Apple-converted-space">                </span>generationConfig: {</p>
+<p class="p1"><span class="Apple-converted-space">                    </span>responseMimeType: "application/json",</p>
+<p class="p1"><span class="Apple-converted-space">                    </span>responseSchema: schema,</p>
+<p class="p1"><span class="Apple-converted-space">                </span>},</p>
+<p class="p1"><span class="Apple-converted-space">            </span>};</p>
+<p class="p2"><br></p>
+<p class="p1"><span class="Apple-converted-space">            </span>try {</p>
+<p class="p1"><span class="Apple-converted-space">                </span>const response = await fetch( apiUrl, {</p>
+<p class="p1"><span class="Apple-converted-space">                    </span>method: 'POST',</p>
+<p class="p1"><span class="Apple-converted-space">                    </span>headers: { 'Content-Type': 'application/json' },</p>
+<p class="p1"><span class="Apple-converted-space">                    </span>body: JSON.stringify(payload)</p>
+<p class="p1"><span class="Apple-converted-space">                </span>});</p>
+<p class="p2"><br></p>
+<p class="p1"><span class="Apple-converted-space">                </span>if (!response.ok) {</p>
+<p class="p1"><span class="Apple-converted-space">                    </span>throw new Error(`API call failed with status: ${response.status}`);</p>
+<p class="p1"><span class="Apple-converted-space">                </span>}</p>
+<p class="p2"><br></p>
+<p class="p1"><span class="Apple-converted-space">                </span>const result = await response.json();</p>
+<p class="p1"><span class="Apple-converted-space">                </span>const candidate = result.candidates?.[0];</p>
+<p class="p2"><br></p>
+<p class="p1"><span class="Apple-converted-space">                </span>if (candidate &amp;&amp; candidate.content?.parts?.[0]?.text) {</p>
+<p class="p1"><span class="Apple-converted-space">                    </span>return JSON.parse(candidate.content.parts[0].text);</p>
+<p class="p1"><span class="Apple-converted-space">                </span>} else {</p>
+<p class="p1"><span class="Apple-converted-space">                    </span>throw new Error("Invalid response structure from Gemini API.");</p>
+<p class="p1"><span class="Apple-converted-space">                </span>}</p>
+<p class="p1"><span class="Apple-converted-space">            </span>} catch (error) {</p>
+<p class="p1"><span class="Apple-converted-space">                </span>console.error("Gemini API Error:", error);</p>
+<p class="p1"><span class="Apple-converted-space">                </span>return null;</p>
+<p class="p1"><span class="Apple-converted-space">            </span>}</p>
+<p class="p1"><span class="Apple-converted-space">        </span>};</p>
+<p class="p2"><br></p>
+<p class="p2"><br></p>
+<p class="p1"><span class="Apple-converted-space">        </span>generateBtn.addEventListener('click', async () =&gt; {</p>
+<p class="p1"><span class="Apple-converted-space">            </span>const niche = nicheInput.value.trim();</p>
+<p class="p2"><span class="Apple-converted-space">            </span></p>
+<p class="p1"><span class="Apple-converted-space">            </span>if (!niche) {</p>
+<p class="p1"><span class="Apple-converted-space">                </span>errorMessage.classList.remove('hidden');</p>
+<p class="p1"><span class="Apple-converted-space">                </span>nicheInput.classList.add('border-red-500','focus:ring-red-500');</p>
+<p class="p1"><span class="Apple-converted-space">                </span>return;</p>
+<p class="p1"><span class="Apple-converted-space">            </span>}</p>
+<p class="p2"><span class="Apple-converted-space">            </span></p>
+<p class="p1"><span class="Apple-converted-space">            </span>errorMessage.classList.add('hidden');</p>
+<p class="p1"><span class="Apple-converted-space">            </span>nicheInput.classList.remove('border-red-500','focus:ring-red-500');</p>
+<p class="p2"><br></p>
+<p class="p1"><span class="Apple-converted-space">            </span>loadingDiv.classList.remove('hidden');</p>
+<p class="p1"><span class="Apple-converted-space">            </span>outputDiv.classList.add('hidden');</p>
+<p class="p1"><span class="Apple-converted-space">            </span>outputDiv.innerHTML = '';</p>
+<p class="p1"><span class="Apple-converted-space">            </span>generateBtn.disabled = true;</p>
+<p class="p1"><span class="Apple-converted-space">            </span>generateBtn.classList.add('opacity-50', 'cursor-not-allowed');</p>
+<p class="p2"><br></p>
+<p class="p2"><br></p>
+<p class="p1"><span class="Apple-converted-space">            </span>const method = monetizationMethod.value;</p>
+<p class="p1"><span class="Apple-converted-space">            </span>const type = contentType.value;</p>
+<p class="p2"><br></p>
+<p class="p1"><span class="Apple-converted-space">            </span>const userQuery = `</p>
+<p class="p1"><span class="Apple-converted-space">                </span>I want to create content about the niche: "${niche}".</p>
+<p class="p1"><span class="Apple-converted-space">                </span>My chosen monetization method is "${method}".</p>
+<p class="p1"><span class="Apple-converted-space">                </span>My preferred content type is "${type}".</p>
+<p class="p2"><br></p>
+<p class="p1"><span class="Apple-converted-space">                </span>Based on this, please provide the following:</p>
+<p class="p1"><span class="Apple-converted-space">                </span>1.<span class="Apple-converted-space">  </span>A list of 4 creative and specific content ideas in the style of "${type}".</p>
+<p class="p1"><span class="Apple-converted-space">                </span>2.<span class="Apple-converted-space">  </span>A concise, actionable monetization strategy paragraph explaining how to combine the content with the chosen monetization method for the "${niche}" topic.</p>
+<p class="p1"><span class="Apple-converted-space">            </span>`;</p>
+<p class="p2"><br></p>
+<p class="p1"><span class="Apple-converted-space">            </span>const schema = {</p>
+<p class="p1"><span class="Apple-converted-space">                </span>type: "OBJECT",</p>
+<p class="p1"><span class="Apple-converted-space">                </span>properties: {</p>
+<p class="p1"><span class="Apple-converted-space">                    </span>contentIdeas: {</p>
+<p class="p1"><span class="Apple-converted-space">                        </span>type: "ARRAY",</p>
+<p class="p1"><span class="Apple-converted-space">                        </span>description: "A list of 4 creative and specific content ideas.",</p>
+<p class="p1"><span class="Apple-converted-space">                        </span>items: { type: "STRING" }</p>
+<p class="p1"><span class="Apple-converted-space">                    </span>},</p>
+<p class="p1"><span class="Apple-converted-space">                    </span>monetizationStrategy: {</p>
+<p class="p1"><span class="Apple-converted-space">                        </span>type: "STRING",</p>
+<p class="p1"><span class="Apple-converted-space">                        </span>description: "A concise paragraph outlining the monetization strategy."</p>
+<p class="p1"><span class="Apple-converted-space">                    </span>}</p>
+<p class="p1"><span class="Apple-converted-space">                </span>},</p>
+<p class="p1"><span class="Apple-converted-space">                </span>required: ["contentIdeas", "monetizationStrategy"]</p>
+<p class="p1"><span class="Apple-converted-space">            </span>};</p>
+<p class="p2"><br></p>
+<p class="p1"><span class="Apple-converted-space">            </span>const result = await callGeminiAPI(userQuery, schema);</p>
+<p class="p2"><br></p>
+<p class="p1"><span class="Apple-converted-space">            </span>if (result) {</p>
+<p class="p1"><span class="Apple-converted-space">                </span>const { contentIdeas, monetizationStrategy } = result;</p>
+<p class="p2"><span class="Apple-converted-space">                </span></p>
+<p class="p1"><span class="Apple-converted-space">                </span>const resultsHTML = `</p>
+<p class="p1"><span class="Apple-converted-space">                    </span>&lt;div class="fade-in bg-slate-800/50 backdrop-blur-sm border border-slate-700 rounded-2xl shadow-2xl overflow-hidden"&gt;</p>
+<p class="p1"><span class="Apple-converted-space">                        </span>&lt;div class="p-6 sm:p-8"&gt;</p>
+<p class="p1"><span class="Apple-converted-space">                            </span>&lt;h2 class="text-2xl font-bold text-white mb-4"&gt;Your Gemini-Generated Plan for "${niche}"&lt;/h2&gt;</p>
+<p class="p2"><span class="Apple-converted-space">                            </span></p>
+<p class="p1"><span class="Apple-converted-space">                            </span>&lt;!-- Content Ideas Card --&gt;</p>
+<p class="p1"><span class="Apple-converted-space">                            </span>&lt;div class="bg-slate-700/50 p-5 rounded-xl mb-6 border border-slate-600"&gt;</p>
+<p class="p1"><span class="Apple-converted-space">                                </span>&lt;h3 class="font-semibold text-cyan-400 mb-3 text-lg"&gt;📝 Content Ideas&lt;/h3&gt;</p>
+<p class="p1"><span class="Apple-converted-space">                                </span>&lt;ul class="list-disc list-inside text-slate-300 space-y-2"&gt;</p>
+<p class="p1"><span class="Apple-converted-space">                                    </span>${contentIdeas.map(idea =&gt; `&lt;li&gt;${idea}&lt;/li&gt;`).join('')}</p>
+<p class="p1"><span class="Apple-converted-space">                                </span>&lt;/ul&gt;</p>
+<p class="p1"><span class="Apple-converted-space">                            </span>&lt;/div&gt;</p>
+<p class="p2"><br></p>
+<p class="p1"><span class="Apple-converted-space">                            </span>&lt;!-- Monetization Strategy Card --&gt;</p>
+<p class="p1"><span class="Apple-converted-space">                            </span>&lt;div class="bg-slate-700/50 p-5 rounded-xl border border-slate-600"&gt;</p>
+<p class="p1"><span class="Apple-converted-space">                                </span>&lt;h3 class="font-semibold text-cyan-400 mb-3 text-lg"&gt;💰 Monetization Strategy&lt;/h3&gt;</p>
+<p class="p1"><span class="Apple-converted-space">                                </span>&lt;p class="text-slate-300 leading-relaxed"&gt;${monetizationStrategy}&lt;/p&gt;</p>
+<p class="p1"><span class="Apple-converted-space">                            </span>&lt;/div&gt;</p>
+<p class="p1"><span class="Apple-converted-space">                        </span>&lt;/div&gt;</p>
+<p class="p1"><span class="Apple-converted-space">                    </span>&lt;/div&gt;</p>
+<p class="p1"><span class="Apple-converted-space">                </span>`;</p>
+<p class="p1"><span class="Apple-converted-space">                </span>outputDiv.innerHTML = resultsHTML;</p>
+<p class="p1"><span class="Apple-converted-space">            </span>} else {</p>
+<p class="p1"><span class="Apple-converted-space">                 </span>outputDiv.innerHTML = `</p>
+<p class="p1"><span class="Apple-converted-space">                    </span>&lt;div class="fade-in bg-red-900/50 border border-red-700 rounded-2xl p-6 text-center"&gt;</p>
+<p class="p1"><span class="Apple-converted-space">                        </span>&lt;h3 class="text-xl font-bold text-red-300"&gt;Oops! Something went wrong.&lt;/h3&gt;</p>
+<p class="p1"><span class="Apple-converted-space">                        </span>&lt;p class="text-red-400 mt-2"&gt;Could not generate ideas. The AI might be busy. Please try again in a moment.&lt;/p&gt;</p>
+<p class="p1"><span class="Apple-converted-space">                    </span>&lt;/div&gt;</p>
+<p class="p1"><span class="Apple-converted-space">                 </span>`;</p>
+<p class="p1"><span class="Apple-converted-space">            </span>}</p>
+<p class="p2"><br></p>
+<p class="p1"><span class="Apple-converted-space">            </span>loadingDiv.classList.add('hidden');</p>
+<p class="p1"><span class="Apple-converted-space">            </span>outputDiv.classList.remove('hidden');</p>
+<p class="p1"><span class="Apple-converted-space">            </span>generateBtn.disabled = false;</p>
+<p class="p1"><span class="Apple-converted-space">            </span>generateBtn.classList.remove('opacity-50', 'cursor-not-allowed');</p>
+<p class="p1"><span class="Apple-converted-space">        </span>});</p>
+<p class="p2"><span class="Apple-converted-space">        </span></p>
+<p class="p1"><span class="Apple-converted-space">    </span>&lt;/script&gt;</p>
+<p class="p2"><br></p>
+<p class="p1">&lt;/body&gt;</p>
+<p class="p1">&lt;/html&gt;</p>
+</body>
+</html>
